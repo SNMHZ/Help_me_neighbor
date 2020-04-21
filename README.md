@@ -16,5 +16,4 @@ Web_Service / / team_project (Software Engineering)
 =========
 ## 진행1
 
-##test********
->>>>>>>>> Temporary merge branch 2
+##test*******snmhz
